@@ -1,6 +1,12 @@
 # Asford Browser
 
+[![Release](https://img.shields.io/github/v/release/mwangiasford1/asford-browser)](https://github.com/mwangiasford1/asford-browser/releases)
+[![Downloads](https://img.shields.io/github/downloads/mwangiasford1/asford-browser/total)](https://github.com/mwangiasford1/asford-browser/releases)
+
 A modern web browser built with PyQt5 featuring a premium splash screen and custom branding.
+
+## 📥 Download
+**Latest Release**: [AsfordBrowser.exe v1.0.0](https://github.com/mwangiasford1/asford-browser/releases/latest)
 
 ## Features
 - Custom splash screen with premium logo
