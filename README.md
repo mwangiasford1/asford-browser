@@ -37,6 +37,8 @@ After the build completes, PyInstaller creates two folders:
 - `build/` – temporary files
 - `dist/` – your final executable
 
+**Note**: The `dist/` folder is not included in the repository (excluded by .gitignore). You must build the executable locally.
+
 Inside `dist/`, you'll see:
 ```
 AsfordBrowser.exe
